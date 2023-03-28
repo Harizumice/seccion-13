@@ -1,0 +1,39 @@
+/* 
+ESTOS SON LOS COLORES DE MI SITIO WEB
+primary: 060047;
+secundary: B3005E;
+light: E90064
+info: FF5F9E; 
+*/
+
+/* formatear los estilos de la página  */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+/* aplicar estilos al header */
+.bg-primarity{
+    margin: 17px;
+    padding: 17px;
+    color: darkred;
+    font-family: 'Alkatra', cursive;
+    background: crimson;
+}
+
+.text-light{
+    background-color: rgb(235, 235, 235);
+}
+
+.text-secondary{
+    color: darksalmon;
+}
+
+/* Cambiar la alineación de los elementos*/
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
