@@ -13,7 +13,7 @@ info: FF5F9E;
     text-decoration: none;
 }
 
-/* aplicar estilos al header */
+/* aplicar estilos al texto */
 .bg-primarity{
     margin: 17px;
     padding: 17px;
@@ -22,12 +22,21 @@ info: FF5F9E;
     background: crimson;
 }
 
+/* Aplicar diferentes colores a la página */
 .text-light{
-    background-color: rgb(235, 235, 235);
+    background-color: #E90064;
 }
-
+.text-primary{
+    color: 060047;
+}
 .text-secondary{
-    color: darksalmon;
+    color: #B3005E;
+}
+.bg-info{
+    background-color: #FF5F9E; 
+}
+.text-white{
+    color: rgb(226, 226, 226);
 }
 
 /* Cambiar la alineación de los elementos*/
@@ -37,3 +46,8 @@ info: FF5F9E;
 .text-left{
     text-align: left;
 }
+
+.width-100{
+    width: 100px;
+}
+
